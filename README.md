@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🤓 I am a Full Stack developer.
+- 📚 Studying Software Development at Queen's University.
+- 👨🏼‍💻 In my free time I do freelance work.
+- 💬 Feel free to reach out if you would like to work together! 
+
+🔥 Checkout my website [here](https://www.spencerv.dev/) 🔥
 <!--
 **Spencercv7/Spencercv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
