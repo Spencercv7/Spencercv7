@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🤓 I am a Full Stack developer.
-- 📚 Studying Software Development at Queen's University.
+- 📚 I Studied Software Development at Queen's University.
 - 👨🏼‍💻 In my free time I do freelance work.
 - 💬 Feel free to reach out if you would like to work together! 
 
